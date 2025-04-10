@@ -3,7 +3,9 @@
 
 🛠️ Construído com: Visual Studio Code.
 
-©️ Créditos: Dima Kurylenko "Travel Agency - Landing Page ux/ui"
-            https://dribbble.com/shots/21293217-Travel-Agency-Landing-Page-ux-ui
+- Autor: Eziel Soares
+
+©️ Créditos Pelo Design UX/UI: Dima Kurylenko "Travel Agency - Landing Page ux/ui"
+                               https://dribbble.com/shots/21293217-Travel-Agency-Landing-Page-ux-ui
 
 🎁 Agradecimento: DEVstart / Senai - Florianópolis.
